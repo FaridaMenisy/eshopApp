@@ -1,0 +1,17 @@
+com\eshop\config\WebInitializer.class
+com\eshop\controller\ItemsController.class
+com\eshop\dao\UserDao.class
+com\eshop\service\tablets\TabletsServiceImpl.class
+com\eshop\model\Users.class
+com\eshop\dao\tablets\TabletsDao.class
+com\eshop\model\Tablets.class
+com\eshop\controller\TabletsController.class
+com\eshop\service\UserService.class
+com\eshop\dao\tablets\TabletsDaoImpl.class
+com\eshop\controller\LoginController.class
+com\eshop\config\HibernateConfig.class
+com\eshop\config\WebConfig.class
+com\eshop\dao\UserDaoImpl.class
+com\eshop\service\tablets\TabletsService.class
+com\eshop\service\UserServiceImpl.class
+com\eshop\model\Phones.class
